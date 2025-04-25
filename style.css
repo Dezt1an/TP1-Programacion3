@@ -1,0 +1,41 @@
+header{
+    padding: 1px;
+    background-color: rgb(61, 49, 95);
+    font-size: 40px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(29, 30, 41);
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.presentacion{
+    border-radius: 10px;
+    background-color: rgb(119, 119, 119);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+}
+
+.botones{
+    height: 60px;
+}
+
+button{
+    height: 50px;
+    font-size: 20px;
+    background-color: rgb(61, 49, 95);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.links{
+    border-radius: 10px;
+    padding-bottom: 20px;
+    background-color: rgb(119, 119, 119);
+    text-align: center;
+}
