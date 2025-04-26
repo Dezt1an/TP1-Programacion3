@@ -12,6 +12,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .body-div {
@@ -56,6 +57,12 @@ body {
     cursor: pointer;
 }
 
+.btn1:hover, .btn2:hover{
+    background-color: #3a4d63;
+    color: #e0f7fa;
+    transition: 0.3s;
+}
+
 .links {
     margin-left: 47px;
     background-color: #8daabf;
@@ -80,3 +87,9 @@ body {
     color: #1c1f2b;
 }
  
+
+.contactoig:hover, .contactofb:hover, .contactox:hover{
+    background-color: #3a4d63;
+    color: #e0f7fa;
+    transition: 0.3s;
+}
