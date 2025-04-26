@@ -1,0 +1,35 @@
+header{
+    padding: 1px;
+    background-color: rgb(61, 49, 95);
+    font-size: 40px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(29, 30, 41);
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    
+}
+
+.div-general{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.body-div1{
+    background-color: rgb(119, 119, 119);
+}
+.body-div2{
+    background-color: rgb(119, 119, 119);
+}
+
+.gustos-div{
+    background-color: rgb(219, 219, 219);
+}
